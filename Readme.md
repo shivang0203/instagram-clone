@@ -60,19 +60,19 @@ This is a Flutter-based Instagram clone app that allows users to sign up, create
 4. Enjoy using the Instagram clone app!
 ## Screenshots 
 
-![Simulator Screen Shot - iPhone 14 - 2023-05-23 at 13 25 25](https://github.com/shivang0203/instagram-clone/assets/94477758/7ecf2e00-7275-4d93-92e3-4fb12162535f)
-<img src = "https://github.com/shivang0203/instagram-clone/assets/94477758/7ecf2e00-7275-4d93-92e3-4fb12162535f" height=50% width= 50%>
-![Simulator Screen Shot - iPhone 14 - 2023-05-23 at 13 25 48](https://github.com/shivang0203/instagram-clone/assets/94477758/717c1496-50e6-44ef-90de-642ecf36ca68)
-![10](https://github.com/shivang0203/instagram-clone/assets/94477758/1ee46b4b-e475-4bd2-8d03-820b3428070c)
-![11](https://github.com/shivang0203/instagram-clone/assets/94477758/4cbe64ad-218a-47d4-aa95-865f480b687e)
-![8](https://github.com/shivang0203/instagram-clone/assets/94477758/267f09fd-db3e-46ff-b080-20ca09ff124a)
-![9](https://github.com/shivang0203/instagram-clone/assets/94477758/d66d1610-833d-4915-80c0-d461e2828d3a)
-![7](https://github.com/shivang0203/instagram-clone/assets/94477758/fd0e8aec-39f9-4be7-a958-d22647475381)
-![4](https://github.com/shivang0203/instagram-clone/assets/94477758/d1d7fcea-5161-4f77-be6d-5c832fe20813)
-![2](https://github.com/shivang0203/instagram-clone/assets/94477758/1749ce59-0188-482a-9e5e-bde2b006af7b)
-![1](https://github.com/shivang0203/instagram-clone/assets/94477758/a7b655b5-739d-4dd1-ad49-432575fcea08)
-![3](https://github.com/shivang0203/instagram-clone/assets/94477758/43f27c31-d9c1-4e2e-81b9-e4f39baf39eb)
-![5](https://github.com/shivang0203/instagram-clone/assets/94477758/facd0091-1000-4b53-9da3-55ef049b94dd)
+
+<img src = "https://github.com/shivang0203/instagram-clone/assets/94477758/7ecf2e00-7275-4d93-92e3-4fb12162535f" height=35% width= 35%>
+<img src = "https://github.com/shivang0203/instagram-clone/assets/94477758/717c1496-50e6-44ef-90de-642ecf36ca68" height=35% width= 35%>
+<img src = "https://github.com/shivang0203/instagram-clone/assets/94477758/1ee46b4b-e475-4bd2-8d03-820b3428070c" height=35% width= 35%>
+<img src = "https://github.com/shivang0203/instagram-clone/assets/94477758/4cbe64ad-218a-47d4-aa95-865f480b687e" height=35% width= 35%>
+<img src = "https://github.com/shivang0203/instagram-clone/assets/94477758/267f09fd-db3e-46ff-b080-20ca09ff124a" height=35% width= 35%>
+<img src = "https://github.com/shivang0203/instagram-clone/assets/94477758/d66d1610-833d-4915-80c0-d461e2828d3a" height=35% width= 35%>
+<img src = "https://github.com/shivang0203/instagram-clone/assets/94477758/fd0e8aec-39f9-4be7-a958-d22647475381" height=35% width= 35%>
+<img src = "https://github.com/shivang0203/instagram-clone/assets/94477758/d1d7fcea-5161-4f77-be6d-5c832fe20813" height=35% width= 35%>
+<img src = "https://github.com/shivang0203/instagram-clone/assets/94477758/1749ce59-0188-482a-9e5e-bde2b006af7b" height=35% width= 35%>
+<img src = "https://github.com/shivang0203/instagram-clone/assets/94477758/a7b655b5-739d-4dd1-ad49-432575fcea08" height=35% width= 35%>
+<img src = "https://github.com/shivang0203/instagram-clone/assets/94477758/43f27c31-d9c1-4e2e-81b9-e4f39baf39eb" height=35% width= 35%>
+<img src = "https://github.com/shivang0203/instagram-clone/assets/94477758/facd0091-1000-4b53-9da3-55ef049b94dd" height=35% width= 35%>
    
 
 
