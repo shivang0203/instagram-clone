@@ -59,6 +59,7 @@ This is a Flutter-based Instagram clone app that allows users to sign up, create
     - View user profiles and see their posts.
 4. Enjoy using the Instagram clone app!
 ## Screenshots 
+<div style="width: 60%; height: 60%">
 ![Simulator Screen Shot - iPhone 14 - 2023-05-23 at 13 25 25](https://github.com/shivang0203/instagram-clone/assets/94477758/7ecf2e00-7275-4d93-92e3-4fb12162535f)
 ![Simulator Screen Shot - iPhone 14 - 2023-05-23 at 13 25 48](https://github.com/shivang0203/instagram-clone/assets/94477758/717c1496-50e6-44ef-90de-642ecf36ca68)
 ![10](https://github.com/shivang0203/instagram-clone/assets/94477758/1ee46b4b-e475-4bd2-8d03-820b3428070c)
@@ -71,6 +72,7 @@ This is a Flutter-based Instagram clone app that allows users to sign up, create
 ![1](https://github.com/shivang0203/instagram-clone/assets/94477758/a7b655b5-739d-4dd1-ad49-432575fcea08)
 ![3](https://github.com/shivang0203/instagram-clone/assets/94477758/43f27c31-d9c1-4e2e-81b9-e4f39baf39eb)
 ![5](https://github.com/shivang0203/instagram-clone/assets/94477758/facd0091-1000-4b53-9da3-55ef049b94dd)
+   </div>
 
 
 
